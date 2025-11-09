@@ -1,0 +1,14 @@
+C:\Users\CROSSHAIR A16\OneDrive\Dokumen\newgameproperty\bin\Debug\net8.0\newgameproperty.exe
+C:\Users\CROSSHAIR A16\OneDrive\Dokumen\newgameproperty\bin\Debug\net8.0\newgameproperty.deps.json
+C:\Users\CROSSHAIR A16\OneDrive\Dokumen\newgameproperty\bin\Debug\net8.0\newgameproperty.runtimeconfig.json
+C:\Users\CROSSHAIR A16\OneDrive\Dokumen\newgameproperty\bin\Debug\net8.0\newgameproperty.dll
+C:\Users\CROSSHAIR A16\OneDrive\Dokumen\newgameproperty\bin\Debug\net8.0\newgameproperty.pdb
+C:\Users\CROSSHAIR A16\OneDrive\Dokumen\newgameproperty\obj\Debug\net8.0\newgameproperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CROSSHAIR A16\OneDrive\Dokumen\newgameproperty\obj\Debug\net8.0\newgameproperty.AssemblyInfoInputs.cache
+C:\Users\CROSSHAIR A16\OneDrive\Dokumen\newgameproperty\obj\Debug\net8.0\newgameproperty.AssemblyInfo.cs
+C:\Users\CROSSHAIR A16\OneDrive\Dokumen\newgameproperty\obj\Debug\net8.0\newgameproperty.csproj.CoreCompileInputs.cache
+C:\Users\CROSSHAIR A16\OneDrive\Dokumen\newgameproperty\obj\Debug\net8.0\newgameproperty.dll
+C:\Users\CROSSHAIR A16\OneDrive\Dokumen\newgameproperty\obj\Debug\net8.0\refint\newgameproperty.dll
+C:\Users\CROSSHAIR A16\OneDrive\Dokumen\newgameproperty\obj\Debug\net8.0\newgameproperty.pdb
+C:\Users\CROSSHAIR A16\OneDrive\Dokumen\newgameproperty\obj\Debug\net8.0\newgameproperty.genruntimeconfig.cache
+C:\Users\CROSSHAIR A16\OneDrive\Dokumen\newgameproperty\obj\Debug\net8.0\ref\newgameproperty.dll
